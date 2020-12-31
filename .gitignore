@@ -1,0 +1,13 @@
+packages/
+TestResults/
+*/bin
+*/obj
+**/Debug/
+.vs/
+*.user
+*.sdf
+*.db
+*.ipch
+
+# Generated files
+Themes.pkgdef
